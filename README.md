@@ -1,2 +1,2 @@
 # Dnacapi
-Place to practice on dnac api
+Place to practice on dnac api using Cisco Devnet Sandbox
